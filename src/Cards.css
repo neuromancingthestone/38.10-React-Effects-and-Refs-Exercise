@@ -1,0 +1,11 @@
+.card-box {
+  margin-top: 50px;
+  margin-bottom: 400px;
+}
+
+.Card > img {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
